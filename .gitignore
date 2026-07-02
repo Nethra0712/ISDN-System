@@ -1,0 +1,18 @@
+# --- Database config with credentials ---
+config/db.php
+
+# --- Temporary generated files ---
+temp/
+scratch/
+
+# --- User-uploaded / generated files ---
+uploads/
+
+# --- OS files ---
+.DS_Store
+Thumbs.db
+
+# --- IDE ---
+.vscode/
+.idea/
+*.suo
